@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ptaski
-- 🌐 My website: ignas.omg.lol
+- 🌐 [My website](https://ignas.omg.lol/)
 
 <!---
 Ptaski/Ptaski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
